@@ -1,4 +1,5 @@
-Terraform Infrastructure Deployment with EKS and Jenkins for Contacts App
+***Terraform Infrastructure Deployment with EKS and Jenkins for Contacts App***
+
 Overview
 This project demonstrates the deployment of cloud infrastructure using Terraform, the setup of an Amazon EKS (Elastic Kubernetes Service) cluster to run a Contacts App, and the CI/CD pipeline using Jenkins deployed on an EC2 instance for apply the Contacts App to the eks cluster.
 
